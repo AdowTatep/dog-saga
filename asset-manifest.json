@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-friend-ranking/static/css/main.2ca608a0.chunk.css",
-  "main.js": "/react-friend-ranking/static/js/main.5d131ab9.chunk.js",
-  "main.js.map": "/react-friend-ranking/static/js/main.5d131ab9.chunk.js.map",
-  "runtime~main.js": "/react-friend-ranking/static/js/runtime~main.1c04b643.js",
-  "runtime~main.js.map": "/react-friend-ranking/static/js/runtime~main.1c04b643.js.map",
-  "static/js/2.ec9edb37.chunk.js": "/react-friend-ranking/static/js/2.ec9edb37.chunk.js",
-  "static/js/2.ec9edb37.chunk.js.map": "/react-friend-ranking/static/js/2.ec9edb37.chunk.js.map",
-  "index.html": "/react-friend-ranking/index.html",
-  "precache-manifest.f09220f3c6bcb8f7578e95fcbebdf23e.js": "/react-friend-ranking/precache-manifest.f09220f3c6bcb8f7578e95fcbebdf23e.js",
-  "service-worker.js": "/react-friend-ranking/service-worker.js",
-  "static/css/main.2ca608a0.chunk.css.map": "/react-friend-ranking/static/css/main.2ca608a0.chunk.css.map",
-  "static/media/logo.svg": "/react-friend-ranking/static/media/logo.ee7cd8ed.svg"
+  "main.css": "/dog-saga/static/css/main.2ca608a0.chunk.css",
+  "main.js": "/dog-saga/static/js/main.5d131ab9.chunk.js",
+  "main.js.map": "/dog-saga/static/js/main.5d131ab9.chunk.js.map",
+  "runtime~main.js": "/dog-saga/static/js/runtime~main.0749a008.js",
+  "runtime~main.js.map": "/dog-saga/static/js/runtime~main.0749a008.js.map",
+  "static/js/2.ec9edb37.chunk.js": "/dog-saga/static/js/2.ec9edb37.chunk.js",
+  "static/js/2.ec9edb37.chunk.js.map": "/dog-saga/static/js/2.ec9edb37.chunk.js.map",
+  "index.html": "/dog-saga/index.html",
+  "precache-manifest.3ae567c29d34021c63f77abad9243d2a.js": "/dog-saga/precache-manifest.3ae567c29d34021c63f77abad9243d2a.js",
+  "service-worker.js": "/dog-saga/service-worker.js",
+  "static/css/main.2ca608a0.chunk.css.map": "/dog-saga/static/css/main.2ca608a0.chunk.css.map",
+  "static/media/logo.svg": "/dog-saga/static/media/logo.ee7cd8ed.svg"
 }

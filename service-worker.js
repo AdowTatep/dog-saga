@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-friend-ranking/precache-manifest.f09220f3c6bcb8f7578e95fcbebdf23e.js"
+  "/dog-saga/precache-manifest.3ae567c29d34021c63f77abad9243d2a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-friend-ranking/index.html", {
+workbox.routing.registerNavigationRoute("/dog-saga/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
